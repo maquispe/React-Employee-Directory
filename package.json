@@ -6,7 +6,7 @@
     "npm": "6.13.4",
     "node": "12.16.1"
   },
-  "homepage": "http://maquispe.github.io/React-Employee-Directory",
+  
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
